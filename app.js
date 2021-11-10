@@ -1,2 +1,11 @@
-const toBuy = ["potato", "tomato", "pizza"];
-toBuy.push("kimbab");
+const player = {
+  name: "changho",
+  height: 180,
+  fat: false,
+
+};
+console.log(player);
+console.log(player.name);
+player.name;
+
+player.lastNmae = "potato";
